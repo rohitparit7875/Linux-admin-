@@ -1,0 +1,9 @@
+📂 File & Directory Management
+ls -la → List files with details
+cd /path → Change directory
+mkdir dirname → Create folder
+rm -rf folder → Remove directory
+cp source dest → Copy files
+mv old new → Move/rename
+find / -name file.txt → Search file
+tar -cvf file.tar folder → Archive files
