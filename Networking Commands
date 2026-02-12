@@ -1,0 +1,8 @@
+🌐 Networking Commands
+ip a → Show IP address
+ping google.com → Check connectivity
+netstat -tulnp → Open ports
+ss -tuln → Network sockets
+curl url → Test API/website
+wget url → Download file
+hostnamectl → Host info
