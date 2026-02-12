@@ -1,0 +1,8 @@
+⚙️ Process & System Monitoring
+top / htop → Live process monitoring
+ps aux → List running processes
+kill -9 PID → Kill process
+df -h → Disk usage
+free -h → RAM usage
+uptime → System load
+uname -a → Kernel info
