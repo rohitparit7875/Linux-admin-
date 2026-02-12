@@ -1,0 +1,8 @@
+🖥️ User & Permission Management
+useradd username → Create new user
+passwd username → Set/change password
+usermod -aG group username → Add user to group
+userdel username → Delete user
+chmod 755 file → Change file permissions
+chown user:group file → Change ownership
+id username → Show user info
