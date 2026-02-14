@@ -1,0 +1,17 @@
+What is a computer network?
+A computer network is a group of interconnected devices that share data and resources.
+2. What is an IP address?
+An IP address is a unique address assigned to a device to identify it on a network.
+3. What is the difference between IPv4 and IPv6?
+IPv4 is 32-bit (e.g., 192.168.1.1).
+IPv6 is 128-bit (e.g., 2001:0db8::1). IPv6 supports more addresses.
+4. What is DNS?
+DNS (Domain Name System) converts domain names (google.com) into IP addresses.
+5. What is DHCP?
+DHCP automatically assigns IP addresses to devices in a network.
+6. What is a subnet mask?
+A subnet mask defines which part of an IP address is network and host.
+7. What is a default gateway?
+It is the router IP address used to communicate with other networks.
+8. What is bandwidth?
+Bandwidth is the amount of data that can be transmitted in a network per second.
