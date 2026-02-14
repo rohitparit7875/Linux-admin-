@@ -1,0 +1,13 @@
+🔹 3. Networking Devices
+15. What is a hub?
+A hub sends data to all devices in the network.
+16. What is a switch?
+A switch sends data only to the intended device using MAC address.
+17. What is a router?
+A router connects different networks and forwards data packets.
+18. What is a firewall?
+A firewall protects a network by filtering traffic.
+19. What is NAT?
+NAT converts private IP to public IP for internet access.
+20. What is VLAN?
+VLAN logically divides a network into smaller networks.
