@@ -1,0 +1,16 @@
+4. Troubleshooting & Security Basics
+21. What is ping?
+Ping checks connectivity between two devices.
+22. What is ipconfig?
+Command used in Windows to check IP configuration.
+23. What will you do if internet is not working?
+Check cable → Check IP → Restart router → Ping gateway → Contact ISP.
+24. What is APIPA?
+APIPA (169.254.x.x) is assigned when DHCP fails.
+25. What is the difference between public and private IP?
+Public IP is used on internet.
+Private IP is used inside local network.
+26. What is HTTPS?
+HTTPS is secure HTTP using encryption.
+27. What is VPN?
+VPN creates secure encrypted connection over internet.
