@@ -1,0 +1,14 @@
+2. OSI & TCP/IP Model
+9. What is the OSI model?
+OSI model has 7 layers: Physical, Data Link, Network, Transport, Session, Presentation, Application.
+10. What is TCP/IP model?
+TCP/IP has 4 layers: Network Access, Internet, Transport, Application.
+11. What is the difference between TCP and UDP?
+TCP is reliable and connection-oriented.
+UDP is faster but connectionless and less reliable.
+12. What is a port number?
+A port number identifies a specific service (e.g., HTTP – 80).
+13. What is a three-way handshake?
+Process to establish TCP connection: SYN → SYN-ACK → ACK.
+14. What is ARP?
+ARP converts IP address into MAC address.
