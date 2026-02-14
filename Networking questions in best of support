@@ -1,0 +1,18 @@
+🌐 2️⃣ Networking & Active Directory
+🔹 What is IP Address?
+A unique address assigned to a device in a network.
+🔹 What is DHCP?
+Automatically assigns IP addresses to devices.
+🔹 What is DNS?
+Converts domain names into IP addresses.
+🔹 Difference between Workgroup & Domain?
+Workgroup – No central control
+Domain – Managed by Active Directory server
+🔹 How to troubleshoot internet issue?
+Check cable/WiFi
+Run ipconfig
+Ping localhost (127.0.0.1)
+Ping gateway
+Ping 8.8.8.8
+🔹 What is Active Directory?
+Centralized system to manage users, computers, and permissions.
