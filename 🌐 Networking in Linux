@@ -1,0 +1,13 @@
+🌐 Networking in Linux
+
+Check IP address?
+ip a or ifconfig
+
+Test network connectivity?
+ping
+
+Check open ports?
+netstat -tulnp or ss -tulnp
+
+What is SSH?
+Secure Shell for remote server access.
