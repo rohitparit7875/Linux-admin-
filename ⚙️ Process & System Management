@@ -1,0 +1,16 @@
+⚙️ Process & System Management
+
+Command to see running processes?
+ps or top
+
+Kill a process?
+kill PID
+
+What is a daemon?
+A background process (e.g., sshd, httpd)
+
+Check disk usage?
+df -h
+
+Check memory usage?
+free -m
