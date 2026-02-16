@@ -1,0 +1,14 @@
+Command to list files?
+ls
+
+Difference between cp and mv?
+cp copies files; mv moves or renames files.
+
+What does pwd do?
+Shows the present working directory.
+
+Command to delete a directory?
+rm -r directory_name
+
+Hidden files in Linux?
+Files starting with a dot (.), shown using ls -a
