@@ -1,0 +1,14 @@
+🔐 Permissions & Ownership
+
+What are file permissions?
+Read (r), Write (w), Execute (x)
+
+Change file permissions?
+chmod
+
+Change ownership of a file?
+chown
+
+Meaning of 755 permission?
+Owner: read/write/execute
+Group & Others: read/execute
