@@ -1,0 +1,24 @@
+🔹 PART 3: Google Cloud Commands (gcloud CLI)
+Login & Project
+Bash
+Copy code
+gcloud auth login
+gcloud projects list
+gcloud config set project PROJECT_ID
+Compute Engine (VMs)
+Bash
+Copy code
+gcloud compute instances list
+gcloud compute instances start VM_NAME
+gcloud compute instances stop VM_NAME
+Cloud Storage
+Bash
+Copy code
+gsutil ls
+gsutil mb gs://bucket-name
+gsutil cp file.txt gs://bucket-name/
+Networking
+Bash
+Copy code
+gcloud compute networks list
+gcloud compute firewall-rules list
