@@ -1,0 +1,23 @@
+🔹 PART 2: Azure Cloud Commands (Azure CLI)
+Login
+Bash
+Copy code
+az login
+Virtual Machines
+Bash
+Copy code
+az vm list
+az vm start --name VM_NAME --resource-group RG_NAME
+az vm stop --name VM_NAME --resource-group RG_NAME
+Storage
+Bash
+Copy code
+az storage account list
+az storage container list --account-name ACCOUNT_NAME
+Networking & Resource Groups
+Bash
+Copy code
+az network vnet list
+az network nsg list
+az group list
+az group create --name MyRG --location eastus
