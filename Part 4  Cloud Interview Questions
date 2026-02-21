@@ -1,0 +1,19 @@
+PART 4: Linux Commands (Very Important for Cloud)
+File & Directory
+Bash
+Copy code
+ls
+pwd
+cd
+System Monitoring
+Bash
+Copy code
+df -h
+free -m
+top
+ps -ef
+Permissions
+Bash
+Copy code
+chmod 755 file.sh
+chown user:user file.txt
