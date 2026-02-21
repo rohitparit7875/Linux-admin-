@@ -1,0 +1,24 @@
+PART 1: AWS Cloud Commands (AWS CLI)
+Login & Setup
+Bash
+Copy code
+aws configure
+EC2 (Virtual Machines)
+Bash
+Copy code
+aws ec2 describe-instances
+aws ec2 start-instances --instance-ids i-123456
+aws ec2 stop-instances --instance-ids i-123456
+S3 (Storage)
+Bash
+Copy code
+aws s3 ls
+aws s3 mb s3://bucket-name
+aws s3 cp file.txt s3://bucket-name/
+aws s3 sync folder/ s3://bucket-name/
+IAM & Networking
+Bash
+Copy code
+aws iam list-users
+aws ec2 describe-vpcs
+aws ec2 describe-security-groups
