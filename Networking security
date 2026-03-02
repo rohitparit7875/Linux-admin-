@@ -1,0 +1,22 @@
+✅ PART 3: Networking, Logs & Security
+🔹 Networking Commands
+Bash
+Copy code
+ip a
+ping google.com
+ss -tulnp
+netstat -tulnp
+curl http://localhost
+wget URL
+nslookup google.com
+traceroute google.com
+🔹 Log & Security
+Bash
+Copy code
+tail -f /var/log/syslog
+journalctl -xe
+grep error logfile
+whoami
+sudo su -
+🎯 Cloud Use Case:
+Troubleshooting Load Balancer, Firewall, DNS, API issues
