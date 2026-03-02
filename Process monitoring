@@ -1,0 +1,22 @@
+✅ PART 2: Process, System & Service Management
+🔹 System Monitoring
+Bash
+Copy code
+top
+htop
+ps -ef
+kill -9 PID
+uptime
+free -m
+df -h
+du -sh folder/
+🔹 Service Management
+Bash
+Copy code
+systemctl start nginx
+systemctl stop nginx
+systemctl restart nginx
+systemctl status nginx
+systemctl enable nginx
+🎯 Cloud Use Case:
+Fix high CPU, RAM, disk issues on production servers
