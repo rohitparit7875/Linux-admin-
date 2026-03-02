@@ -1,0 +1,24 @@
+✅ PART 4: Storage, Users & Automation (Cloud Critical)
+🔹 Disk & Storage
+Bash
+Copy code
+lsblk
+mount /dev/xvdf /data
+umount /data
+blkid
+🔹 User Management
+Bash
+Copy code
+useradd devuser
+passwd devuser
+usermod -aG sudo devuser
+🔹 Automation & Remote Access
+Bash
+Copy code
+crontab -e
+bash script.sh
+ssh user@server-ip
+scp file user@server:/path
+rsync -av source/ dest/
+🎯 Cloud Use Case:
+Automate backups, deployments, and monitoring
