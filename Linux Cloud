@@ -1,0 +1,22 @@
+✅ PART 1: Linux Basics & File Management
+🔹 Basic Commands
+Bash
+Copy code
+ls        # list files
+cd        # change directory
+pwd       # present working directory
+mkdir     # create folder
+rm -rf    # delete files/folders
+cp        # copy files
+mv        # move/rename files
+touch     # create empty file
+cat       # view file
+🔹 File Permissions
+Bash
+Copy code
+ls -l
+chmod 755 file.sh
+chown user:user file.sh
+umask
+🎯 Cloud Use Case:
+Managing application files on EC2 / Azure VM / GCP VM
