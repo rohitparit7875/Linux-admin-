@@ -1,0 +1,26 @@
+Part 4: Networking & Package Management
+Very important for Cloud Engineers 🌐
+Networking Commands
+Copy code
+
+ip a
+ifconfig
+ping google.com
+netstat -tulnp
+ss -tulnp
+traceroute google.com
+curl http://example.com
+wget http://example.com/file.zip
+Package Management (Ubuntu)
+Copy code
+
+apt update
+apt upgrade
+apt install nginx
+apt remove nginx
+Package Management (RHEL/CentOS)
+Copy code
+
+yum install httpd
+yum update
+dnf install nginx
