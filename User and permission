@@ -1,0 +1,22 @@
+Part 2: User & Permission Management
+Very important for Admin role 🔐
+Copy code
+
+useradd rohit
+passwd rohit
+usermod -aG sudo rohit
+userdel rohit
+
+groupadd devops
+groupdel devops
+
+chmod 755 file.sh
+chmod +x script.sh
+chown user:group file.txt
+id username
+who
+whoami
+👉 Important Concept:
+777 = Full permission
+755 = Owner full, others read+execute
+644 = File default permission
