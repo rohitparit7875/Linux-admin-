@@ -1,0 +1,14 @@
+Part 3: Process & Service Management
+Used for troubleshooting 🔥
+Copy code
+
+ps -ef
+top
+htop
+kill PID
+kill -9 PID
+pkill processname
+free -m
+uptime
+df -h
+du -sh *
