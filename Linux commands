@@ -1,0 +1,18 @@
+Part 1: Basic File & Directory Management
+These are daily-use commands for any Linux Admin.
+Copy code
+
+pwd            # Present working directory
+ls -l          # List files with details
+ls -a          # Show hidden files
+cd /path       # Change directory
+mkdir dir1     # Create directory
+rmdir dir1     # Remove empty directory
+rm -rf dir1    # Remove directory forcefully
+cp file1 file2 # Copy file
+mv file1 file2 # Move/Rename file
+touch file.txt # Create empty file
+cat file.txt   # View file content
+less file.txt  # View large file
+head -n 10 file.txt
+tail -n 10 file.txt
