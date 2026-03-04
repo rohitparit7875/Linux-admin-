@@ -1,0 +1,11 @@
+4️⃣ Security Monitoring Tools (SIEM)
+These tools monitor logs and detect attacks in real time.
+Examples:
+Splunk
+Collects and analyzes logs.
+IBM QRadar
+Detects security threats.
+Elastic Security
+Open-source security monitoring.
+📌 Example Use Case:
+A SOC team uses Splunk to detect login attempts from suspicious IP addresses.
