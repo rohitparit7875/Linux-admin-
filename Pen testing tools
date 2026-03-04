@@ -1,0 +1,11 @@
+3️⃣ Penetration Testing Tools
+These tools simulate real hacker attacks to test security.
+Examples:
+Metasploit
+Used to exploit vulnerabilities.
+Burp Suite
+Used for web application security testing.
+Aircrack‑ng
+Used for testing WiFi security.
+📌 Example Use Case:
+A penetration tester uses Metasploit to exploit a vulnerable server.
