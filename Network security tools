@@ -1,0 +1,16 @@
+1️⃣ Network Security Tools
+These tools monitor and protect network traffic.
+Examples:
+Wireshark
+Used to capture and analyze network packets.
+Helps identify suspicious traffic.
+Snort
+Detects attacks in network traffic.
+Works as IDS/IPS.
+Nmap
+Scans networks and finds open ports.
+Used for vulnerability discovery.
+pfSense
+Firewall and router for network protection.
+📌 Example Use Case:
+A company network admin uses Wireshark to analyze traffic and detect suspicious packets.
