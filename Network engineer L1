@@ -1,0 +1,22 @@
+2️⃣ Networking Concepts
+These questions check your technical understanding.
+• OSI Model
+7 layers used to understand network communication.
+Physical
+Data Link
+Network
+Transport
+Session
+Presentation
+Application
+• TCP vs UDP
+TCP
+Reliable
+Connection-oriented
+UDP
+Faster
+Connectionless
+• VLAN
+A method to divide one physical network into multiple logical networks.
+• NAT
+Converts private IP to public IP for internet access.
