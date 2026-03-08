@@ -1,0 +1,14 @@
+3️⃣ Network Infrastructure Concepts
+These are medium to advanced questions.
+• Layer 2 vs Layer 3 Switch
+Layer 2
+Uses MAC address
+Layer 3
+Uses IP address
+Can perform routing
+• STP (Spanning Tree Protocol)
+Prevents network loops.
+• ARP
+Converts IP address to MAC address.
+• Default Gateway
+The router used to access other networks.
