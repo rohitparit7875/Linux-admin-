@@ -1,0 +1,20 @@
+4️⃣ Troubleshooting & Practical Questions
+These test real-world network skills.
+• What will you check if internet is not working?
+Check cable connection
+Check IP address (ipconfig)
+Ping gateway
+Ping public IP (ping 8.8.8.8)
+Check DNS
+• ping command
+Checks connectivity between devices.
+Example:
+Copy code
+
+ping google.com
+• tracert command
+Shows the path a packet takes to reach the destination.
+Example:
+Copy code
+
+tracert google.com
