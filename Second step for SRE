@@ -1,0 +1,5 @@
+2. Process & Logs
+ps -ef → running processes
+kill -9 <pid> → stop process
+journalctl -xe → system logs
+tail -f /var/log/syslog → live logs
