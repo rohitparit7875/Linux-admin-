@@ -1,0 +1,5 @@
+3. Networking
+netstat -tulnp / ss -tulnp → ports
+ping → connectivity
+curl → API testing
+traceroute → network path
