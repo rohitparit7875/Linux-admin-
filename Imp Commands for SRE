@@ -1,0 +1,5 @@
+1. System Monitoring
+top, htop → CPU & memory usage
+uptime → load average
+free -m → RAM usage
+df -h → disk usage
