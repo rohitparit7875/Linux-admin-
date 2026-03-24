@@ -1,0 +1,5 @@
+4. Services & Automation
+systemctl start/stop/status → manage services
+crontab -l → scheduled jobs
+chmod, chown → permissions
+ssh → remote access
