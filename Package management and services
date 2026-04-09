@@ -1,0 +1,8 @@
+📦 3. Package Management & Services
+Install/remove software:
+Debian/Ubuntu → apt
+RHEL/CentOS → yum / dnf
+Service management: systemctl start/stop/status
+Manage logs: /var/log/
+Cron jobs for automation
+👉 This is where you run and maintain servers
