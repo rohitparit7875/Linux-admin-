@@ -1,0 +1,6 @@
+🧩 1. System Administration Basics
+Manage users & groups: useradd, usermod, passwd
+File permissions: chmod, chown, umask
+File system structure: /etc, /var, /home, /root
+Process management: ps, top, kill
+👉 This is your foundation layer — बिना ये सब, Linux engineer strong नहीं बनता
