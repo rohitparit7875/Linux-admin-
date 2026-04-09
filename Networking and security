@@ -1,0 +1,6 @@
+⚙️ 2. Networking & Security
+Networking commands: ip, ifconfig, netstat, ss
+SSH access & key-based authentication
+Firewall: iptables, ufw
+Troubleshooting tools: ping, traceroute, tcpdump
+👉 This makes you useful in real-world production systems
